@@ -1,0 +1,17 @@
+{
+ "root" : 
+ 			{
+ 			"dimensions":
+				 			{
+				 			"tank":
+						 			{
+						 			"length": 2.7,
+						 			"width": 0.3,
+						 			"radius": 0.1,
+						 			"name" : "mysweettank"
+						 			},
+				 			"other":""
+				 			},
+ 			"other":""
+ 			}
+}
